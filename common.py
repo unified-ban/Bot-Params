@@ -20,5 +20,6 @@ log_name = 'unifiedban_log'
 
 supported_languages = [
 	'it_IT',
-	'en_US'
+	'en_US',
+	'pr_PR'
 ]
