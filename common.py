@@ -6,9 +6,9 @@
 
 from Utils.shell import Colors
 
-version = '2.0.5.3'
-source = '0.9'
-next_source = '2.0.0.0'
+version = '2.7.1.0'
+source = '2.7.1.0'
+next_source = '3.0.0.0'
 
 prefix = '[unifiedban] '
 prefix_bold  = Colors.bold + prefix + Colors.endc
