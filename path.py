@@ -4,7 +4,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-base = 'UnifiedBan/Bot'
+base = '/home/Mirko/Applications/UnifiedBan/Bot'
 
 dataset = base+'/Dataset'
 dataset_phishing = dataset+'/phishing/phishing.database.txt'
@@ -15,4 +15,5 @@ pid = base+'/unifiedban.pid'
 
 log = base+'/status.log'
 logs = base+'/Logs'
+stats = base+'/Stats'
 log_backup = base+'/Logs/%s__status.log'

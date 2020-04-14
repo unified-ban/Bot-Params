@@ -7,20 +7,20 @@
 # Bot details
 class Bot:
 	name = 'unified/ban'
-	id = 
+	id = 000
 	token = ''
 
 # Report channel details
 class ReportChannel:
 	name = 'Logs unified/ban'
-	id = 
+	id = -000
 
 # Operators group details
 class OperatorsGroup:
 	name = 'Staff unified/ban'
-	id = 
+	id = -000
 
 # Official Telegram user details
 class Telegram:
 	name = "Telegram"
-	id = 
+	id = 777000
