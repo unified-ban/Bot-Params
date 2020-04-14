@@ -13,4 +13,4 @@ language = Languages.en_US
 test_functions = True
 
 # Key for unique ID
-unique_key = "-KaNdRgU"
+unique_key = "" # Not used anymore
